@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://archishthakkar.ml/sitemap.xml
+Host: https://archishthakkar.ml
